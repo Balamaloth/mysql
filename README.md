@@ -1,2 +1,2 @@
 ##mysql 
- ## sql commands  explactions in simple way ##
+ ## sql  explactions in simple way ##
